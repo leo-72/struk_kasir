@@ -1,5 +1,6 @@
-# CREATED BY NADHIF Leopard27
+# CREATED BY Leo-72
 # PROGRAM MEMBUAT STRUK KASIR
+# SUPPORT MY GITHUB : https://github.com/leo-72
 
 import os
 import datetime
